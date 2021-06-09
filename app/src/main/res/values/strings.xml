@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">TestApp</string>
+    <string name="api_server_address">https:/rassiappdev.thinkpool.com:56620/rassi_and/</string>
+
+    <!--> All <-->
+    <string name="str_more">+더보기</string>
+    <string name="str_split_slash_two">%s / %s</string>
+    <string name="str_split_slash_three">%s / %s / %s</string>
+
+    <!--> Main <-->
+    <string name="str_main_user_invest_title">%s의 투자정보</string>
+    <string name="str_main_pfo_title">포트폴리오 현황</string>
+    <string name="str_main_pfo_contents_stock_up">%s %s\% 상승 하였습니다.</string>
+    <string name="str_main_pfo_contents_stock_keep">오늘 종목의 등락에 변동이 없습니다.</string>
+    <string name="str_main_pfo_contents_stock_down">%s %s\% 하락 하였습니다.</string>
+
+    <string name="str_main_issue_title">오늘의 이슈</string>
+    <string name="str_main_issue_count">총 %d개</string>
+
+
+</resources>
